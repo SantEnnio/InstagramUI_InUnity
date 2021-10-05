@@ -2066,7 +2066,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: da1b3b7714b526540b8b3aefbdf67067, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PostsNumber: 10
+  Path: https://www.enniopirolo.it/testFiles/data.json
   PostPrefab: {fileID: 3820963309180174236, guid: ec0f238aee959754181083f682fa1ca7, type: 3}
   PostParent: {fileID: 668221597}
   SampleTextures:
@@ -2083,6 +2083,8 @@ MonoBehaviour:
   - {fileID: 2800000, guid: 7126fc9590ede6a4a922ae1d43135f2a, type: 3}
   - {fileID: 2800000, guid: c1d5635933e2b2d459522df76befba94, type: 3}
   - {fileID: 2800000, guid: 1a3203fba1924a340b69ef2c56964e23, type: 3}
+  data:
+    Posts: []
 --- !u!1 &1165806343
 GameObject:
   m_ObjectHideFlags: 0
